@@ -2,7 +2,8 @@ name: build multiarch image
 
 on:
   push:
-    branches: '[1-9].[1-9]'
+    branches:
+      - '[1-9].[1-9]'
     paths-ignore:
       - '**.md'
 

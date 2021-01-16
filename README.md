@@ -1,6 +1,6 @@
 <p align="leftr"><img src="docs/assets/logomark.png" alt="Mailu" height="200px"></p>
 
-![build multiarch image](https://github.com/zurajm/Mailu/workflows/build%20multiarch%20image/badge.svg)
+![build multiarch image](https://github.com/zurajm/Mailu/workflows/build%20multiarch%20image/badge.svg?branch=1.8)
 
 
 Mailu is a simple yet full-featured mail server as a set of Docker images.
